@@ -5,3 +5,7 @@ body {
 .projects-title{
 	color: grey;
 }
+
+#leftpart{ display: inline; width: 70%;
+
+}
